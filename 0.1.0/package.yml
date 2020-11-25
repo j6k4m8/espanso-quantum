@@ -30,5 +30,5 @@ matches:
     replace: "𝟙"
   - trigger: "\\bra"
     replace: "⟨"
-   trigger: "\\ket"
+  - trigger: "\\ket"
     replace: "⟩"
