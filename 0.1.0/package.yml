@@ -4,7 +4,7 @@ parent: default
 matches:
   - trigger: "\\\\to"
     replace: "→"
-  - trigger: "\\\\bn"
+  - trigger: "\\\\bbN"
     replace: "ℕ"
   - trigger: "\\\\bbR"
     replace: "ℝ"
